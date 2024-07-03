@@ -1,0 +1,1 @@
+main(a,b)int**b;{if(a==3)return(printf("%s %s\n",b[1],b[2]),2);}
